@@ -6,7 +6,7 @@
  * Optional: Project Settings > Script properties: SMS_API_KEY, SMS_SENDER (Semaphore).
  */
 const ADMIN_USER = 'superadmin';
-const ADMIN_PASSWORD = 'CHANGE-ME-123';
+const ADMIN_PASSWORD = 'admin123';
 const HEAD = {
   Users: ['id', 'name', 'user', 'role', 'salt', 'hash'],
   Learners: ['id', 'lrn', 'name', 'grade', 'pn', 'pp', 'info', 'status', 'lastTs'],
